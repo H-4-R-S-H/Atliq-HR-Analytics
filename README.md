@@ -51,6 +51,12 @@ To design a visual analytics dashboard that:
 
 ---
 
+## 🎥 Working Dashboard Demo
+
+[![Watch the Dashboard Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
 ## 🛠 Tools & Skills Used
 
 - **Microsoft Power BI** – for building the interactive dashboard  
