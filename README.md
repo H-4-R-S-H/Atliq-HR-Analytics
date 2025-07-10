@@ -1,10 +1,10 @@
-# 📊 Atliq Presence Insights – HR Analytics Dashboard (Power BI)
+# Atliq Presence Insights – HR Analytics Dashboard (Power BI)
 
 An interactive dashboard built using **real employee attendance data from Atliq** to analyze workforce presence, work-from-home (WFH), and sick leave (SL) trends. This project provides HR teams with actionable insights into employee behavior and attendance across weekdays and months.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To design a visual analytics dashboard that:
 - Tracks employee attendance through **Presence %, WFH %, and Sick Leave %**
@@ -13,7 +13,7 @@ To design a visual analytics dashboard that:
 
 ---
 
-## 📁 Dataset Used
+## Dataset Used
 
 - **Source**: Real, anonymized HR attendance data from Atliq  
 - **Format**: Excel (.xlsx)  
@@ -26,7 +26,7 @@ To design a visual analytics dashboard that:
 
 ---
 
-## ❓ Questions Answered
+## Questions Answered
 
 - What is the overall trend in employee presence and attendance?
 - Which days of the week have the highest WFH or SL occurrences?
@@ -35,7 +35,7 @@ To design a visual analytics dashboard that:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - **91.83% overall presence rate** indicates strong attendance across the board.
 - **WFH peaks on Fridays (13%)**, possibly reflecting flexible work culture.
@@ -45,13 +45,13 @@ To design a visual analytics dashboard that:
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 
 ![Atliq Presence Dashboard](./Dashboard.png)
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 - **Microsoft Power BI** – for building the interactive dashboard  
 - **DAX (Data Analysis Expressions)** – for creating custom metrics  
@@ -60,7 +60,7 @@ To design a visual analytics dashboard that:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This dashboard demonstrates the power of **HR analytics** when combined with interactive data visualization tools like **Power BI**. By analyzing patterns in attendance and leave behaviors, HR departments can enhance workforce engagement, improve policies, and support employee well-being.
 
